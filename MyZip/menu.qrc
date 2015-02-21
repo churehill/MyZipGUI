@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/file">
+        <file>images/com.png</file>
+        <file>images/del.png</file>
+        <file>images/history.png</file>
+        <file>images/info.png</file>
+        <file>images/quit.png</file>
+        <file>images/ren.png</file>
+        <file>images/uncom.png</file>
+        <file>images/uncomt.png</file>
+        <file>images/zip.png</file>
+        <file>images/about.png</file>
+        <file>images/myzip.png</file>
+    </qresource>
+</RCC>
